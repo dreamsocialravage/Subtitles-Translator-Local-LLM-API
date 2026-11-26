@@ -1,0 +1,23 @@
+{
+  "repo": "subtitles-translator-local-llm-api",
+  "product": "Subtitles Translator Local LLM API",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "subtitles-translator-llm-api",
+    "subtitles-translator",
+    "subtitles-translator-api",
+    "how-to-install-subtitles-translator",
+    "how-to-setup-subtitles-translator",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "subtitles-llm"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Subtitles Translator Local LLM API"
+}
